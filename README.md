@@ -19,5 +19,7 @@
 Amelia Pasich
 
 ## Narzędzia zespołu
+- Git — historia zmian
+- GitHub — Pull Requesty i code review
 - Git — kontrola wersji
 - GitHub — współpraca nad kodem
