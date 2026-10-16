@@ -17,3 +17,7 @@
 
 ## Autor
 Amelia Pasich
+
+## Narzędzia zespołu
+- Git — historia zmian
+- GitHub — Pull Requesty i code review
