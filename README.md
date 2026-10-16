@@ -17,3 +17,7 @@
 
 ## Autor
 Amelia Pasich
+
+## Narzędzia zespołu
+- Git — kontrola wersji
+- GitHub — współpraca nad kodem
